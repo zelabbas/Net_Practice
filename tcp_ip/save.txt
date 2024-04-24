@@ -1,0 +1,21 @@
+https://community.fs.com/fr/article/tcpip-vs-osi-whats-the-difference-between-the-two-models.html 
+
+
+osi vs tcp/ip  👆
+
+
+lan, wan, wireless media
+
+LAN (Local Area Networks)
+● réseau d’entreprise à l’intérieur d’un batiment.
+● Courte distance : 10km.
+● Débits de 10, 100, 1000 Mbps
+MAN (Metropolitan Area Network)
+● réseau reliant des sites dans une même ville
+● Distance : 100 km
+● Débits de 100, 1000 Mbps
+WAN (Wide Area Networks)
+● réseau reliant des sites d’une entreprise séparés par de grandes
+distances
+● Distance : 1000 km
+● Utilisent les réseaux téléphoniques publiques

@@ -2,9 +2,6 @@
 
 ![netpractice logo](net_practice/img/np_logo.png)
 
-
-<br>
-
 NetPractice is a web-based application designed to help users practice and improve their networking skills. Whether you're a beginner learning the basics of networking or an experienced professional looking to refine your skills, NetPractice provides a platform for hands-on learning and experimentation.
 
 #### NOTE:
@@ -16,7 +13,6 @@ If you wanna practice more : https://subnetipv4.com/
   <summary>Level 1</summary>
   <br>
   <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_1.png" alt="level1">  
-  <br>
   <br>
 
 **1.** Since _Client A_ and _Client B_ are on the same network, their IP address must represent the same network in accordance with the subnet mask.
@@ -47,7 +43,6 @@ The solution will be anything in the range of **211.191.0.0 - 211.191.255.255**,
   <summary>Level 2</summary>
   <br>
   <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_2.png" alt="level2">
-  <br>
   <br>
 
 **1.** Since _Client B_ is on the same private network as _Client A_, they should have the exact same subnet mask.

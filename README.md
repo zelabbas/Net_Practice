@@ -12,7 +12,7 @@ NetPractice is a web-based application designed to help users practice and impro
 <details>
   <summary>Level 1</summary>
   <br>
-  <img src="" alt="level1">  
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_1.png" alt="level1">  
   <br>
   <br>
 

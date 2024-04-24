@@ -172,6 +172,7 @@ Note that we did not interact with the router _Interface R2_ and _Interface R3_,
 </details>
 
 ---
+
 <details>
   <summary>Level 5</summary>
   <br>
@@ -196,7 +197,8 @@ Note that we did not interact with the router _Interface R2_ and _Interface R3_,
   <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_7.png" alt="level7">
   <br>
   
-  </details>
+</details>
+
 ---
 
 <details>
@@ -241,6 +243,6 @@ It is normal to have an empty field for the 3rd destination of the _internet_, a
   <br>
   <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_10.png" alt="level10">
   <br>
-  
+
 </details>
 

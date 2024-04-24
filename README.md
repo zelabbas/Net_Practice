@@ -363,6 +363,8 @@ It is normal to have an empty field for the 3rd destination of the _internet_, a
 
 </details>
 
+---
+
 <details>
   <summary>Level 10</summary>
   <br>

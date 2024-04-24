@@ -43,7 +43,7 @@ The solution will be anything in the range of **211.191.0.0 - 211.191.255.255**,
 <details>
   <summary>Level 2</summary>
   <br>
-  <img src="" alt="level2">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_2.png" alt="level2">
   <br>
   <br>
 
@@ -108,7 +108,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 3</summary>
   <br>
-  <img src="" alt="level3">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_3.png" alt="level3">
   <br>
   <br>
 
@@ -139,7 +139,7 @@ The IP address of _Interface B1_ and _Interface C1_ must be on the same network 
 <details>
   <summary>Level 4</summary>
   <br>
-  <img src="" alt="level4">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_4.png" alt="level4">
   <br>
   <br>
 
@@ -172,7 +172,7 @@ Note that we did not interact with the router _Interface R2_ and _Interface R3_,
 <details>
   <summary>Level 5</summary>
   <br>
-  <img src="" alt="level5">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_5.png" alt="level5">
   <br>
   <br>
 
@@ -200,7 +200,7 @@ The next hop address must be the IP address of the next router's interface on th
 <details>
   <summary>Level 6</summary>
   <br>
-  <img src="" alt="level6">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_6.png" alt="level6">
   <br>
   <br>
 
@@ -258,7 +258,7 @@ A destination of _40.178.145.227/25_ is equivalent to the destination address _4
 <details>
   <summary>Level 7</summary>
   <br>
-  <img src="" alt="level7">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_7.png" alt="level7">
   <br>
   <br>
 
@@ -298,7 +298,7 @@ https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=28&cip=9
 <details>
   <summary>Level 8</summary>
   <br>
-  <img src="" alt="level8">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_8.png" alt="level8">
   <br>
   <br>
 
@@ -340,7 +340,7 @@ Note that the network address (first) and the broadcast address (last) must be e
 <details>
   <summary>Level 9</summary>
   <br>
-  <img src="" alt="level9">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_9.png" alt="level9">
   <br>
   <br>
 
@@ -366,7 +366,7 @@ It is normal to have an empty field for the 3rd destination of the _internet_, a
 <details>
   <summary>Level 10</summary>
   <br>
-  <img src="" alt="level10">
+  <img src="https://github.com/zelabbas/net_practice/blob/main/soultions/imgs/level_10.png" alt="level10">
   <br>
   <br>
 
